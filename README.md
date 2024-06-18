@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jirathx.</h1>
 <h3 align="center">I'm learning coding, and take experience from universal. for work in future or hobby in my github</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jirathz&label=Profile%20views&color=0e75b6&style=flat" alt="jirathz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jirathz&label=Profile%20views&color=0e75b6&style=flat" alt="jirathxz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jirathz" alt="jirathz" /></a> </p>
 
